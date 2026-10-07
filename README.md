@@ -1,6 +1,5 @@
-## GITHUB:
-
-### [https://github.com/ligneshwar/Implicit-and-Explicit-wait-in-selenium](url)
+# GITHUB:
+ [https://github.com/ligneshwar/Implicit-and-Explicit-wait-in-selenium](url)
 
 ## Using a demo shopping website such as SauceDemo (Swag Labs), perform Selenium WebDriver automation for login, product selection, cart, and checkout operations. For alert handling, mouse actions, drag-and-drop, and dynamic-element handling, use a suitable Selenium demo website that supports these interactions.
 
